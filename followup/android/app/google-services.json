@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "47324457736",
+    "firebase_url": "https://followup-dcf46-default-rtdb.firebaseio.com",
+    "project_id": "followup-dcf46",
+    "storage_bucket": "followup-dcf46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47324457736:android:85e182e30f8842bcc95abd",
+        "android_client_info": {
+          "package_name": "com.example.followup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfPt1lHFfk-uPtw6UdP_uu8iRkYJmdH94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
